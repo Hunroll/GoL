@@ -18,7 +18,7 @@ Trigono:
 7. round(double/decimal * decimal) - class should work with maximum precision. If you want to round - do it on GUI.
 8. F.product_, F.product1_(, F.product_2(
 
-	Factorial:
+Factorial:
 10. Try-catch user input because user always inputs wrong values
 11. int for factorials is not usable.
 12. usefulness - ?
@@ -45,11 +45,14 @@ Smart clipboard:
                     form1.Opacity += 0.1;
                 }
 	is it really needed
+	
 Array max-min
 23. min = 0 - if all the numbers will be generated positive - I will have min=0. (12, 10, 33)- min=0. Same for max.
 24. Usefulness
+
 Legend of zelda 
 25. Не успел?)))
+
 CPP
 26. loops for sunday, monday, loadFromFile.
 27. sorting.
